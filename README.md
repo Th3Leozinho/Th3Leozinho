@@ -15,7 +15,3 @@
 <div><br>
 
 Apaixonado por tecnlogia, foca na programação
-
-### Sites criados
-🌐 https://www.essenciadotoque.com.br/
-🌐 https://gbmoveisescritorio.com.br/
