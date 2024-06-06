@@ -15,4 +15,4 @@
     <img aling="Center"alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <div><br>
 
-Apaixonado por tecnlogia, foca na programação
+Apaixonado por tecnlogia, focado na programação
