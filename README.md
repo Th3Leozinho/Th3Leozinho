@@ -24,4 +24,8 @@ Tenho experiência em sistemas corporativos, integração de APIs e bancos de da
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <div><br>
 
-Apaixonado por tecnlogia, focado na programação
+
+🚀 Projetos em Destaque
+Criaçao de portal para empresa.
+Criação de automaçoes para tramitacão e resolução
+Criação de automaçoes para indicareos 
