@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leonardo Oleano 👋
 
-Sou desenvolvedor especializado em **portais corporativos**, automações e integração de **APIs**.  
-Atualmente, trabalho com **Python (Pandas)** e **SQL**, atuando na **consolidação de dados**, **identificação de padrões** e **construção de indicadores** para suporte à decisão.  
+Sou desenvolvedor especializado em **portal corporativos**, automações e integração de **APIs**.  
+Atualmente, trabalho com **Python (Pandas)** e **SQL**, e **construção de indicadores** para suporte à decisão.  
 Tenho experiência em **sistemas corporativos**, integração de APIs e bancos de dados, focando em soluções que **otimizam processos** e **melhoram a tomada de decisão**.
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LeonardoOleano) 
